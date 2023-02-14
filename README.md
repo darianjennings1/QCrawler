@@ -1,4 +1,4 @@
-# Q-Learning based Reinforcement Learning for crash/bug detection in mobile-applications
+# Q-Learning based Reinforcement Learning for crash/bug detection in mobile-applications 🐛
 
 # Tools & Languages Used 💡:
 1. Python
