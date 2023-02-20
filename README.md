@@ -2,5 +2,6 @@
 
 <h2> Tools & Languages Used 💡: </h2>
 1. Python <br>
-2. Appium & Selenium <br>
-3. XML & SQLite <br>
+  * pip install 
+3. Appium & Selenium <br>
+4. XML & SQLite <br>
