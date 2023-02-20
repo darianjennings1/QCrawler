@@ -2,5 +2,5 @@
 
 <h2> Tools & Languages Used 💡: </h2>
 1. Python <br>
-2. Appium & Selenium
-3. XML & SQLite
+2. Appium & Selenium <br>
+3. XML & SQLite <br>
