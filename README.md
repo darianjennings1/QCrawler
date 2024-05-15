@@ -7,4 +7,4 @@ We propose a robust and fully automated structure that allows for a progressivel
 Python, Appium & Selenium, Android Studio, XML, JaCoCo, & SQLite 
 
 <h2> Code Report: </h2>
-This is a link to the code report that my team and I generated, you can read the document here -> <a href="https://drive.google.com/file/d/1kfqRj-9Sh6Ac1I863dJDUl7c4qURZVLi/view?usp=sharing"><strong>Read the Code Report »</a>
+This was completed as an undergraduate research project at The University of North Texas during the summer of 2020. This is a link to the code report that my team and I generated, you can read the document here -> <a href="https://drive.google.com/file/d/1kfqRj-9Sh6Ac1I863dJDUl7c4qURZVLi/view?usp=sharing"><strong>Read the Code Report »</a>
