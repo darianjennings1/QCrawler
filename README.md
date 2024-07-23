@@ -1,4 +1,19 @@
-# Q-Learning based Reinforcement Learning for automated crash detection in mobile-applications
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+
+  <h3 align="center">Q-Learning based Reinforcement Learning for automated crash detection in mobile-applications</h3>
+
+  <p align="center">
+    <br />
+    <p align="center">
+    <a href="https://drive.google.com/file/d/1S_h1VPCW4b4jm2l7dnobnjK-gIgFlwqN/view?usp=sharing"><strong>Read the Code Report »</strong></a>
+    <br />
+    <br />
+    </p>
+  </p>
+</p>
 
 ## What is Q-Learning?: 
 A reinforcement learning algorithm that finds an optimal action-selection policy for any finite Markov decision process (MDP). It helps an agent learn to maximize the total reward over time through repeated interactions with the environment, even when the model of that environment is not known.
