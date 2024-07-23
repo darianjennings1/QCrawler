@@ -2,7 +2,8 @@
 
 <h2> What is Q-Learning?: </h2>
 A reinforcement learning algorithm that finds an optimal action-selection policy for any finite Markov decision process (MDP). It helps an agent learn to maximize the total reward over time through repeated interactions with the environment, even when the model of that environment is not known
-![image](https://github.com/user-attachments/assets/274e3478-dc1d-4a5d-a632-48a979d5934a)
+
+<center>![image](https://github.com/user-attachments/assets/274e3478-dc1d-4a5d-a632-48a979d5934a)</center>
 
 <h2> Purpose: </h2>
 We propose a robust and fully automated structure that allows for a progressively more effective and accurate approach to testing and detecting faults in GUI for applications. The approach involves using a mobile-application crawler in tandem with a machine learning algorithm known as Q-learning in order to offer the best coverage-based testing that still uses random actions to pursue the best chances for finding faults in the GUI.
