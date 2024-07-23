@@ -19,4 +19,5 @@ We propose a robust and fully automated structure that allows for a progressivel
 - SQLite
 
 ## Code Report:
-This was completed as an undergraduate research project at The University of North Texas during the summer of 2020.<a href="https://drive.google.com/file/d/1kfqRj-9Sh6Ac1I863dJDUl7c4qURZVLi/view?usp=sharing"><strong>Read the Code Report »</a></strong>
+This was completed as an undergraduate research project at The University of North Texas during the Summer of 2020. Specifically this was an NSF funded REU - research experience for undergraduates. 
+<a href="https://drive.google.com/file/d/1kfqRj-9Sh6Ac1I863dJDUl7c4qURZVLi/view?usp=sharing"><strong>Read the Code Report »</a></strong>
